@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/greenhouse-app/static/css/main.d1b05096.chunk.css",
+    "main.js": "/greenhouse-app/static/js/main.130d68b7.chunk.js",
+    "main.js.map": "/greenhouse-app/static/js/main.130d68b7.chunk.js.map",
+    "runtime-main.js": "/greenhouse-app/static/js/runtime-main.46d7bded.js",
+    "runtime-main.js.map": "/greenhouse-app/static/js/runtime-main.46d7bded.js.map",
+    "static/js/2.6f3b97e2.chunk.js": "/greenhouse-app/static/js/2.6f3b97e2.chunk.js",
+    "static/js/2.6f3b97e2.chunk.js.map": "/greenhouse-app/static/js/2.6f3b97e2.chunk.js.map",
+    "index.html": "/greenhouse-app/index.html",
+    "precache-manifest.6195f4fd53f32076af4f96317c95d87c.js": "/greenhouse-app/precache-manifest.6195f4fd53f32076af4f96317c95d87c.js",
+    "service-worker.js": "/greenhouse-app/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/greenhouse-app/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.6f3b97e2.chunk.js.LICENSE.txt": "/greenhouse-app/static/js/2.6f3b97e2.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/greenhouse-app/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.46d7bded.js",
+    "static/js/2.6f3b97e2.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.130d68b7.chunk.js"
+  ]
+}
